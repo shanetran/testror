@@ -1,0 +1,28 @@
+body {
+	width: 960px;
+	margin: 0 auto;
+	background: #ffffff;
+	color: #000;
+}
+header {
+	background: #3FA01F;
+	color: #fff;
+}
+.bot {
+	text-align: center;
+	padding: 15px 0;
+}
+.lk {
+	text-decoration: none;
+	padding: 10px;
+	color: #fff;
+	background-color: #3FA01F;
+	margin: 0 0 0 10px;
+}
+.content {
+	text-align: center;
+}
+.active {
+	background-color: blue;
+	cursor: none;
+}
